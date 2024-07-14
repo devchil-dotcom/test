@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
       "type": "function"
     }
   ];
-  const contractAddress = '0xYourContractAddress'; // Replace with your contract address
+  const contractAddress = '0x11065d625e7D9D7801431dF623EA17A84651188a'; // Replace with your contract address
 
   connectButton.addEventListener('click', async () => {
     if (window.ethereum) {
